@@ -6,7 +6,7 @@ import { HeroesModule } from './heroes/heroes.module';
 import { DbzModule } from './dbz/dbz.module';
 
 import { AppComponent } from './app.component';
-import { DbzModule } from './dbz/dbz.module';
+// import { DbzModule } from './dbz/dbz.module';
 
 
 @NgModule({
